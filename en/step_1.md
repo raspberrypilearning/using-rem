@@ -1,8 +1,8 @@
 Where possible, `rem` should be used to state the size of an element in a HTML webpage. 
 
-This is because `rem` will work with the default size that the user's browser has specified. `1rem` is typically equivalent to 16px but a user might decide to set their `rem` to a larger or smaller size based on their needs and preferences. 
+This is because `rem` works with the default size that the user's browser has specified. `1rem` is typically equivalent to 16px but a user might decide to set their `rem` to a larger or smaller size based on their needs and preferences. 
 
-When you use `3rem` for the size, you are stating that the element is 3 times the size of the default size. 
+When you use `3rem` for the size, you are stating that the element is three times the size of the default size. 
 
 --- code ---
 ---
