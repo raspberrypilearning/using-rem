@@ -1,8 +1,8 @@
-Where possible, `rem` should be used to state the size of an element in a HTML webpage.
+Waar mogelijk moet `rem` worden gebruikt om de grootte van een element op een HTML-webpagina aan te geven.
 
-This is because `rem` works with the default size that the user's browser has specified. `1rem` is typically equivalent to 16px but a user might decide to set their `rem` to a larger or smaller size based on their needs and preferences.
+Dit komt omdat `rem` werkt met de standaardgrootte die de browser van de gebruiker heeft opgegeven. `1rem` komt normaal gesproken overeen met 16px, maar een gebruiker kan ervoor kiezen om de `rem` groter of kleiner in te stellen op basis van zijn/haar behoeften en voorkeuren.
 
-When you use `3rem` for the size, you are stating that the element is three times the size of the default size.
+Wanneer je `3rem` gebruikt voor de grootte, geef je aan dat het element drie keer zo groot is als de standaardgrootte.
 
 ## --- code ---
 
@@ -18,4 +18,4 @@ font-size: 3rem;
 }
 \--- /code ---
 
-Using `rem` is great because it allows your webpage to be responsive to the needs of your user.
+Het gebruik van `rem` is aan te raden omdat het ervoor zorgt dat jouw webpagina beter aansluit op de behoeften van je gebruiker.
